@@ -1,0 +1,1481 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "1146036176",
+                    "sourceWorkshopId": 1146036176,
+                    "name": "NIFTY FIFTY (API-T)"
+                },
+                {
+                    "sourceDirectory": "1360051396",
+                    "sourceWorkshopId": 1360051396,
+                    "name": "G17"
+                },
+                {
+                    "sourceDirectory": "2359136262",
+                    "sourceWorkshopId": 2359136262,
+                    "name": "Beretta M92FS"
+                },
+                {
+                    "sourceDirectory": "1710585642",
+                    "sourceWorkshopId": 1710585642,
+                    "name": "PSP 8"
+                },
+                {
+                    "sourceDirectory": "1710585642",
+                    "sourceWorkshopId": 1710585642,
+                    "name": "MP29SD"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "MAC-4 INFANTRY"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "MAR-16GL"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "M249E2"
+                },
+                {
+                    "sourceDirectory": "1710585642",
+                    "sourceWorkshopId": 1710585642,
+                    "name": "PSG72"
+                },
+                {
+                    "sourceDirectory": "1710585642",
+                    "sourceWorkshopId": 1710585642,
+                    "name": "G59"
+                },
+                {
+                    "sourceDirectory": "2846364252",
+                    "sourceWorkshopId": 2846364252,
+                    "name": "HAR-66 High Explosive"
+                },
+                {
+                    "sourceDirectory": "1765347443",
+                    "sourceWorkshopId": 1765347443,
+                    "name": "SCAR SSR"
+                },
+                {
+                    "sourceDirectory": "1765347443",
+                    "sourceWorkshopId": 1765347443,
+                    "name": "SCAR L"
+                },
+                {
+                    "sourceDirectory": "1765347443",
+                    "sourceWorkshopId": 1765347443,
+                    "name": "SCAR H"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2781899387",
+                    "sourceWorkshopId": 2781899387,
+                    "name": "transport pickup"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2781899387",
+                    "sourceWorkshopId": 2781899387,
+                    "name": "transport pickup"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2781899387",
+                    "sourceWorkshopId": 2781899387,
+                    "name": "transport pickup"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2781899387",
+                    "sourceWorkshopId": 2781899387,
+                    "name": "transport pickup"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2482078863",
+                    "sourceWorkshopId": 2482078863,
+                    "name": "MH-6 Transport SUS"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2843224065",
+                    "sourceWorkshopId": 2843224065,
+                    "name": "AFT-11  fix"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2589971675",
+                    "sourceWorkshopId": 2589971675,
+                    "name": "MG assault boatA"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2589971675",
+                    "sourceWorkshopId": 2589971675,
+                    "name": "MG assault boatA"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2843224065",
+                    "sourceWorkshopId": 2843224065,
+                    "name": "AFT-11  fix"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2773550859",
+                    "sourceWorkshopId": 2773550859,
+                    "name": "MH-60L Transport gtg 2"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2781899387",
+                    "sourceWorkshopId": 2781899387,
+                    "name": "transport pickup"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2783806456",
+                    "sourceWorkshopId": 2783806456,
+                    "name": "M2 universal tripod by Sowen"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2118568859",
+                    "sourceWorkshopId": 2118568859,
+                    "name": "Mortar"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2100478575",
+                    "sourceWorkshopId": 2100478575,
+                    "name": "AA 40mm Bofors"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2652787166",
+                "sourceWorkshopId": 2652787166,
+                "name": "F.E.R"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "2713272170",
+                    "sourceWorkshopId": 2713272170,
+                    "name": "M4A1 Iron Sights"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKM"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKMS"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "RPK"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "GOLDEN RKM"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "GOLDEN TARIB 13"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "TARIB 13"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "RK-77U"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "1519885629",
+                    "sourceWorkshopId": 1519885629,
+                    "name": "MOLOTOV"
+                },
+                {
+                    "sourceDirectory": "1232791799",
+                    "sourceWorkshopId": 1232791799,
+                    "name": "RPG-7"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "RPK-74"
+                },
+                {
+                    "sourceDirectory": "1146036176",
+                    "sourceWorkshopId": 1146036176,
+                    "name": "NIFTY FIFTY (API-T)"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "RKS 77 DMR"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "M240B"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "RK-77"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SMOKE GRENADE"
+                },
+                {
+                    "sourceDirectory": "2713272170",
+                    "sourceWorkshopId": 2713272170,
+                    "name": "M4A1 ACOG"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2781899387",
+                    "sourceWorkshopId": 2781899387,
+                    "name": "transport pickup"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2783469531",
+                    "sourceWorkshopId": 2783469531,
+                    "name": "column pickup M2 by Sowen"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2783469531",
+                    "sourceWorkshopId": 2783469531,
+                    "name": "column pickup M2 by Sowen"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "1459418632",
+                    "sourceWorkshopId": 1459418632,
+                    "name": "Killvan"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2110363018",
+                    "sourceWorkshopId": 2110363018,
+                    "name": "assault boat"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2110363018",
+                    "sourceWorkshopId": 2110363018,
+                    "name": "assault boat"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "1459418632",
+                    "sourceWorkshopId": 1459418632,
+                    "name": "Killvan"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2783806456",
+                    "sourceWorkshopId": 2783806456,
+                    "name": "M2 universal tripod by Sowen"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2118568859",
+                    "sourceWorkshopId": 2118568859,
+                    "name": "Mortar"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2546471894",
+                "sourceWorkshopId": 2546471894,
+                "name": "SoldadoCDC00s"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2121823035",
+            "sourceWorkshopId": 2121823035,
+            "name": "Custom Blood Color",
+            "fields": [
+                {
+                    "id": "rSliderEagle",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "gSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "rSliderRaven",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "gSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "aSliderRaven",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "aSliderEagle",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "hexValueEagle",
+                    "serializedValue": "#0000ff"
+                },
+                {
+                    "id": "hexValueRaven",
+                    "serializedValue": "#ff0000"
+                },
+                {
+                    "id": "disableBlood",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "usePresets",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "hexColorEnabled",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "preset",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2754881558",
+            "sourceWorkshopId": 2754881558,
+            "name": "Blue Camo Class",
+            "fields": [
+                {
+                    "id": "healthminrecon",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "healthminassault",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healthminsupport",
+                    "serializedValue": "175"
+                },
+                {
+                    "id": "healthminengineer",
+                    "serializedValue": "75"
+                },
+                {
+                    "id": "healthminmedic",
+                    "serializedValue": "75"
+                },
+                {
+                    "id": "healthminplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healthmaxrecon",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "healthmaxassault",
+                    "serializedValue": "150"
+                },
+                {
+                    "id": "healthmaxsupport",
+                    "serializedValue": "250"
+                },
+                {
+                    "id": "healthmaxengineer",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "healthmaxmedic",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "healthmaxplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "balanceminrecon",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "balanceminassault",
+                    "serializedValue": "75"
+                },
+                {
+                    "id": "balanceminsupport",
+                    "serializedValue": "200"
+                },
+                {
+                    "id": "balanceminengineer",
+                    "serializedValue": "75"
+                },
+                {
+                    "id": "balanceminmedic",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "balanceminplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "balancemaxrecon",
+                    "serializedValue": "175"
+                },
+                {
+                    "id": "balancemaxassault",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "balancemaxsupport",
+                    "serializedValue": "400"
+                },
+                {
+                    "id": "balancemaxengineer",
+                    "serializedValue": "150"
+                },
+                {
+                    "id": "balancemaxmedic",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "balancemaxplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "limitbotsrecon",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "limitbotsassault",
+                    "serializedValue": "15"
+                },
+                {
+                    "id": "limitbotssupport",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "limitbotsengineer",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "limitbotsmedic",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "speedminrecon",
+                    "serializedValue": "1.25"
+                },
+                {
+                    "id": "speedminassault",
+                    "serializedValue": "0.75"
+                },
+                {
+                    "id": "speedminsupport",
+                    "serializedValue": "0.5"
+                },
+                {
+                    "id": "speedminengineer",
+                    "serializedValue": "0.75"
+                },
+                {
+                    "id": "speedminmedic",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "speedminplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "speedmaxrecon",
+                    "serializedValue": "1.75"
+                },
+                {
+                    "id": "speedmaxassault",
+                    "serializedValue": "1.25"
+                },
+                {
+                    "id": "speedmaxsupport",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "speedmaxengineer",
+                    "serializedValue": "1.25"
+                },
+                {
+                    "id": "speedmaxmedic",
+                    "serializedValue": "1.5"
+                },
+                {
+                    "id": "speedmaxplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizeminrecon",
+                    "serializedValue": "0.9"
+                },
+                {
+                    "id": "sizeminassault",
+                    "serializedValue": "0.95"
+                },
+                {
+                    "id": "sizeminsupport",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizeminengineer",
+                    "serializedValue": "0.95"
+                },
+                {
+                    "id": "sizeminmedic",
+                    "serializedValue": "0.95"
+                },
+                {
+                    "id": "sizeminplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizemaxrecon",
+                    "serializedValue": "1.05"
+                },
+                {
+                    "id": "sizemaxassault",
+                    "serializedValue": "1.1"
+                },
+                {
+                    "id": "sizemaxsupport",
+                    "serializedValue": "1.2"
+                },
+                {
+                    "id": "sizemaxengineer",
+                    "serializedValue": "1.05"
+                },
+                {
+                    "id": "sizemaxmedic",
+                    "serializedValue": "1.05"
+                },
+                {
+                    "id": "sizemaxplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "primarytyperecon",
+                    "serializedValue": "NIFTY FIFTY (API-T);PSG72;SCAR SSR"
+                },
+                {
+                    "id": "primarytypeassault",
+                    "serializedValue": "MAR-16GL;MAC-4 INFANTRY;G59;SCAR L;SCAR H"
+                },
+                {
+                    "id": "primarytypesupport",
+                    "serializedValue": "M249E2"
+                },
+                {
+                    "id": "primarytypeengineer",
+                    "serializedValue": "MP29SD;SCAR L;G59"
+                },
+                {
+                    "id": "primarytypemedic",
+                    "serializedValue": "MP29SD"
+                },
+                {
+                    "id": "primarytypeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "secondarytyperecon",
+                    "serializedValue": "PSP 8;G17;Beretta M92FS"
+                },
+                {
+                    "id": "secondarytypeassault",
+                    "serializedValue": "PSP 8;G17;Beretta M92FS"
+                },
+                {
+                    "id": "secondarytypesupport",
+                    "serializedValue": "PSP 8;G17;Beretta M92FS"
+                },
+                {
+                    "id": "secondarytypeengineer",
+                    "serializedValue": "PSP 8;G17;Beretta M92FS"
+                },
+                {
+                    "id": "secondarytypemedic",
+                    "serializedValue": "PSP 8;G17;Beretta M92FS"
+                },
+                {
+                    "id": "secondarytypeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear1typerecon",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear1typeassault",
+                    "serializedValue": "SMOKE GRENADE"
+                },
+                {
+                    "id": "gear1typesupport",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear1typeengineer",
+                    "serializedValue": "Wrench;HAR-66 High Explosive"
+                },
+                {
+                    "id": "gear1typemedic",
+                    "serializedValue": "Medic bag"
+                },
+                {
+                    "id": "gear1typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear2typerecon",
+                    "serializedValue": "SMOKE GRENADE"
+                },
+                {
+                    "id": "gear2typeassault",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear2typesupport",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear2typeengineer",
+                    "serializedValue": "TEAR GAS GRENADE"
+                },
+                {
+                    "id": "gear2typemedic",
+                    "serializedValue": "Medic bag"
+                },
+                {
+                    "id": "gear2typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear3typerecon",
+                    "serializedValue": "Bandage"
+                },
+                {
+                    "id": "gear3typeassault",
+                    "serializedValue": "Bandage"
+                },
+                {
+                    "id": "gear3typesupport",
+                    "serializedValue": "SMOKE GRENADE"
+                },
+                {
+                    "id": "gear3typeengineer",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear3typemedic",
+                    "serializedValue": "Bandage"
+                },
+                {
+                    "id": "gear3typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "enablerecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enablesupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableengineer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enablemedic",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableskinrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinsupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinmedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthsupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthmedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balancerecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balanceassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balancesupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balanceengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balancemedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balanceplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedsupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedmedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "loadoutrecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutsupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutengineer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutmedic",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizerecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizeassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizesupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizeengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizemedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizeplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotssupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsmedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "addressclasstoplayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "noskinforplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2754881558",
+            "sourceWorkshopId": 2754881558,
+            "name": "Red Camo Class",
+            "fields": [
+                {
+                    "id": "healthminrecon",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "healthminassault",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healthminsupport",
+                    "serializedValue": "175"
+                },
+                {
+                    "id": "healthminengineer",
+                    "serializedValue": "75"
+                },
+                {
+                    "id": "healthminmedic",
+                    "serializedValue": "75"
+                },
+                {
+                    "id": "healthminplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healthmaxrecon",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "healthmaxassault",
+                    "serializedValue": "150"
+                },
+                {
+                    "id": "healthmaxsupport",
+                    "serializedValue": "250"
+                },
+                {
+                    "id": "healthmaxengineer",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "healthmaxmedic",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "healthmaxplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "balanceminrecon",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "balanceminassault",
+                    "serializedValue": "75"
+                },
+                {
+                    "id": "balanceminsupport",
+                    "serializedValue": "200"
+                },
+                {
+                    "id": "balanceminengineer",
+                    "serializedValue": "75"
+                },
+                {
+                    "id": "balanceminmedic",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "balanceminplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "balancemaxrecon",
+                    "serializedValue": "175"
+                },
+                {
+                    "id": "balancemaxassault",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "balancemaxsupport",
+                    "serializedValue": "400"
+                },
+                {
+                    "id": "balancemaxengineer",
+                    "serializedValue": "150"
+                },
+                {
+                    "id": "balancemaxmedic",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "balancemaxplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "limitbotsrecon",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "limitbotsassault",
+                    "serializedValue": "15"
+                },
+                {
+                    "id": "limitbotssupport",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "limitbotsengineer",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "limitbotsmedic",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "speedminrecon",
+                    "serializedValue": "1.25"
+                },
+                {
+                    "id": "speedminassault",
+                    "serializedValue": "0.75"
+                },
+                {
+                    "id": "speedminsupport",
+                    "serializedValue": "0.5"
+                },
+                {
+                    "id": "speedminengineer",
+                    "serializedValue": "0.75"
+                },
+                {
+                    "id": "speedminmedic",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "speedminplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "speedmaxrecon",
+                    "serializedValue": "1.75"
+                },
+                {
+                    "id": "speedmaxassault",
+                    "serializedValue": "1.25"
+                },
+                {
+                    "id": "speedmaxsupport",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "speedmaxengineer",
+                    "serializedValue": "1.25"
+                },
+                {
+                    "id": "speedmaxmedic",
+                    "serializedValue": "1.5"
+                },
+                {
+                    "id": "speedmaxplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizeminrecon",
+                    "serializedValue": "0.9"
+                },
+                {
+                    "id": "sizeminassault",
+                    "serializedValue": "0.95"
+                },
+                {
+                    "id": "sizeminsupport",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizeminengineer",
+                    "serializedValue": "0.95"
+                },
+                {
+                    "id": "sizeminmedic",
+                    "serializedValue": "0.95"
+                },
+                {
+                    "id": "sizeminplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizemaxrecon",
+                    "serializedValue": "1.05"
+                },
+                {
+                    "id": "sizemaxassault",
+                    "serializedValue": "1.1"
+                },
+                {
+                    "id": "sizemaxsupport",
+                    "serializedValue": "1.2"
+                },
+                {
+                    "id": "sizemaxengineer",
+                    "serializedValue": "1.05"
+                },
+                {
+                    "id": "sizemaxmedic",
+                    "serializedValue": "1.05"
+                },
+                {
+                    "id": "sizemaxplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "primarytyperecon",
+                    "serializedValue": "RKS 77 DMR; NIFTY FITY (API-T)"
+                },
+                {
+                    "id": "primarytypeassault",
+                    "serializedValue": "AKMS;AKM;M4A1 Iron Sight;GOLDEN RKM;RK-77;M4A1 ACOG"
+                },
+                {
+                    "id": "primarytypesupport",
+                    "serializedValue": "RPK;RPK-74;M240B"
+                },
+                {
+                    "id": "primarytypeengineer",
+                    "serializedValue": "AKMS;RK-77U"
+                },
+                {
+                    "id": "primarytypemedic",
+                    "serializedValue": "RK-77U"
+                },
+                {
+                    "id": "primarytypeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "secondarytyperecon",
+                    "serializedValue": "GOLDEN TARIB"
+                },
+                {
+                    "id": "secondarytypeassault",
+                    "serializedValue": "GOLDEN TARIB 13;TARIB 13"
+                },
+                {
+                    "id": "secondarytypesupport",
+                    "serializedValue": "GOLDEN TARIB 13;TARIB 13"
+                },
+                {
+                    "id": "secondarytypeengineer",
+                    "serializedValue": "TARIB 13"
+                },
+                {
+                    "id": "secondarytypemedic",
+                    "serializedValue": "TARIB 13"
+                },
+                {
+                    "id": "secondarytypeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear1typerecon",
+                    "serializedValue": "MOLOTOV"
+                },
+                {
+                    "id": "gear1typeassault",
+                    "serializedValue": "MOLOTOV"
+                },
+                {
+                    "id": "gear1typesupport",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear1typeengineer",
+                    "serializedValue": "RPG-7"
+                },
+                {
+                    "id": "gear1typemedic",
+                    "serializedValue": "Medic bag"
+                },
+                {
+                    "id": "gear1typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear2typerecon",
+                    "serializedValue": "SMOKE GRENADE"
+                },
+                {
+                    "id": "gear2typeassault",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear2typesupport",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear2typeengineer",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear2typemedic",
+                    "serializedValue": "Medic bag"
+                },
+                {
+                    "id": "gear2typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear3typerecon",
+                    "serializedValue": "Ammo bag"
+                },
+                {
+                    "id": "gear3typeassault",
+                    "serializedValue": "Bandage"
+                },
+                {
+                    "id": "gear3typesupport",
+                    "serializedValue": "MOLOTOV"
+                },
+                {
+                    "id": "gear3typeengineer",
+                    "serializedValue": "Bandage"
+                },
+                {
+                    "id": "gear3typemedic",
+                    "serializedValue": "Bandage"
+                },
+                {
+                    "id": "gear3typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "enablerecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enablesupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableengineer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enablemedic",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableskinrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinsupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinmedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthsupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthmedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balancerecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balanceassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balancesupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balanceengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balancemedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "balanceplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedsupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedmedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "speedplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "loadoutrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "loadoutassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutsupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutengineer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutmedic",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizerecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizeassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizesupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizeengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizemedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizeplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotssupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsengineer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsmedic",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "addressclasstoplayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "noskinforplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}
